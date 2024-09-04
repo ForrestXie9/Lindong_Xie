@@ -30,19 +30,21 @@ For more information, please visit my [Orcid](https://orcid.org/my-orcid?orcid=0
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+#<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+#[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+#**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+#[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>#</span></strong>
+#- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#</div>
+#</div>
+- [Zhenkun Wang and Yuanyao Chen and Genghui Li, and **Lindong Xie** et al. "Batch subproblem coevolution with Gaussian process-driven linear models for expensive multi-objective optimization." Swarm and Evolutionary Computation 91 (2024): 101700.]
+- [**L. Xie**, G. Li, Z. Wang, L. Cui, and M. Gong, "Surrogate-Assisted Evolutionary Algorithm With Model and Infill Criterion Auto-Configuration," in IEEE Transactions on Evolutionary Computation, vol. 28, no. 4, pp. 1114-1126, Aug. 2024.]
+- [**L. Xie**, G. Li, K. Lin, and Z. Wang. "Dual-state-driven evolutionary optimization for expensive optimization problems with continuous and categorical variables." 2023 5th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2023.]
+- [Li G^1^, **Xie L^1^**, Wang Z, et al. Evolutionary algorithm with individual-distribution search strategy and regression-classification surrogates for expensive optimization[J]. Information Sciences, 2023, 634: 423-442.]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
