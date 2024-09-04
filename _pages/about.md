@@ -47,16 +47,12 @@ For more information, please visit my [Orcid](https://orcid.org/my-orcid?orcid=0
 - [Li G<sup>1</sup>, **Xie L<sup>1</sup>**, Z. Wang, et al. Evolutionary algorithm with individual-distribution search strategy and regression-classification surrogates for expensive optimization[J]. Information Sciences, 2023, 634: 423-442.](https://www.sciencedirect.com/science/article/pii/S0020025523004255)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* Outstanding Master’s Thesis and Outstanding Master’s Graduate of Southern University of Science and Technology.
+- *2023.09* National Scholarship.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - Present*, PhD Student, Hong Kong Polytechnic University. 
+- *2021.09 - 2024.06*, Master. Southern University of Science and Technology. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
