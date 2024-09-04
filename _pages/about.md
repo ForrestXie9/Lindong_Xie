@@ -44,7 +44,7 @@ For more information, please visit my [Orcid](https://orcid.org/my-orcid?orcid=0
 - [Z. Wang, Y. Chen, G. Li, and **L. Xie** et al. "Batch subproblem coevolution with Gaussian process-driven linear models for expensive multi-objective optimization." Swarm and Evolutionary Computation 91 (2024): 101700.]
 - [**L. Xie**, G. Li, Z. Wang, L. Cui, and M. Gong, "Surrogate-Assisted Evolutionary Algorithm With Model and Infill Criterion Auto-Configuration," in IEEE Transactions on Evolutionary Computation, vol. 28, no. 4, pp. 1114-1126, Aug. 2024.]
 - [**L. Xie**, G. Li, K. Lin, and Z. Wang. "Dual-state-driven evolutionary optimization for expensive optimization problems with continuous and categorical variables." 2023 5th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2023.]
-- [Li G<sup>1</sup>, **Xie L<sup>1</sup>**, Wang Z, et al. Evolutionary algorithm with individual-distribution search strategy and regression-classification surrogates for expensive optimization[J]. Information Sciences, 2023, 634: 423-442.]
+- [Li G<sup>1</sup>, **Xie L<sup>1</sup>**, Z. Wang, et al. Evolutionary algorithm with individual-distribution search strategy and regression-classification surrogates for expensive optimization[J]. Information Sciences, 2023, 634: 423-442.]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
