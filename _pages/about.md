@@ -45,7 +45,9 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 - [Li G<sup>1</sup>, **Xie L<sup>1</sup>**, Z. Wang, et al. Evolutionary algorithm with individual-distribution search strategy and regression-classification surrogates for expensive optimization[J]. Information Sciences, 2023, 634: 423-442.](https://www.sciencedirect.com/science/article/pii/S0020025523004255)
 
 # 🎖 Honors and Awards
-- *2024.05* Outstanding Master’s Thesis and Outstanding Master’s Graduate of Southern University of Science and Technology.
+- *2024.05* Outstanding Master’s Thesis, Southern University of Science and Technology
+- *2024.05* Outstanding Master’s Graduate, Southern University of Science and Technology
+- *2023.09* Outstanding Master’s Student, Southern University of Science and Technology
 - *2023.09* National Scholarship.
 
 # 📖 Educations
