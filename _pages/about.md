@@ -19,7 +19,7 @@ redirect_from:
 
 Hello everyone, I am Xie Lindong, currently a PhD student at The Hong Kong Polytechnic University under the supervision of Professor Edward Chung. Before joining PolyU, I completed my Master’s degree at Southern University of Science and Technology, where I was supervised by Dr. Wang Zhenkun.
 
-My research interests include optimization algorithm, large language models, machine learning, and their applications in real-world scenarios. For more information, you can visit my [Githup](https://github.com/ForrestXie9) and [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-2497-2338)
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
