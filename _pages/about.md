@@ -19,9 +19,7 @@ redirect_from:
 
 Hello everyone, I am Xie Lindong, currently a PhD student at The Hong Kong Polytechnic University under the supervision of Professor Edward Chung. Before joining PolyU, I completed my Master’s degree at Southern University of Science and Technology, where I was supervised by Dr. Wang Zhenkun.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+My research interests include optimization algorithm, large language models, machine learning, and their applications in real-world scenarios. For more information, you can visit my [Githup](https://github.com/ForrestXie9) and [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-2497-2338)
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
