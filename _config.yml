@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "PhD Student at Hong Kong Polytechnic University"
+description              : #"PhD Student at Hong Kong Polytechnic University"
 repository               : "ForrestXie9/Lindong_Xie.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lindong Xie"
   avatar           : "images/Personal Photo.jpg"
-  bio              : "Hong Kong Polytechnic University"
+  bio              : PhD Student at Hong Kong Polytechnic University
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
