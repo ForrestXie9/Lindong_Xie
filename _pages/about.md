@@ -23,10 +23,11 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the Outstanding Master’s Thesis (Top 1%) by Southern University of Science and Technology.
-- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the National Graduate Scholarship.
-- *2023.06*: &nbsp;🎉🎉 The paper titled ‘Surrogate-Assisted Evolutionary Algorithm With Model and Infill Criterion Auto-Configuration’ has been accepted by IEEE Transactions on Evolutionary Computation.
-- *2023.03*: &nbsp;🎉🎉 The paper titled ‘Evolutionary Algorithm with Individual-distribution Search Strategy and Regression-classification Surrogates for Expensive Optimization’ has been accepted by IEEE Transactions on Evolutionary Computation.
+- *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the **Outstanding Master’s Thesis (Top 1%)** by Southern University of Science and Technology.
+- *2023.11*: &nbsp;🎉🎉 Lindong Xie has become a candidate for the exemplary graduate student at Southern University of Science and Technology.
+- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the **National Graduate Scholarship**.
+- *2023.06*: &nbsp;🎉🎉 The paper titled ‘Surrogate-Assisted Evolutionary Algorithm with Model and Infill Criterion Auto-Configuration’ has been accepted by **IEEE Transactions on Evolutionary Computation**.
+- *2023.03*: &nbsp;🎉🎉 The paper titled ‘Evolutionary Algorithm with Individual-Distribution Search Strategy and Regression-Classification Surrogates for Expensive Optimization’ has been accepted by Information Sciences.
 
 
 # 📝 Publications 
@@ -43,11 +44,11 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 #</div>
 #</div> -->
 - [Z. Wang, Y. Chen, G. Li, and **L. Xie** et al. "Batch Subproblem Coevolution with Gaussian Process-driven Linear Models for Expensive Multi-objective Optimization." Swarm and Evolutionary Computation 91 (2024): 101700.](https://www.sciencedirect.com/science/article/pii/S2210650224002384)
-- [**L. Xie**, G. Li, Z. Wang, L. Cui, and M. Gong, "Surrogate-Assisted Evolutionary Algorithm With Model and Infill Criterion Auto-Configuration," in IEEE Transactions on Evolutionary Computation, vol. 28, no. 4, pp. 1114-1126, Aug. 2024.](https://ieeexplore.ieee.org/abstract/document/10171212)
+- [**L. Xie**, G. Li, Z. Wang, L. Cui, and M. Gong, "Surrogate-Assisted Evolutionary Algorithm with Model and Infill Criterion Auto-Configuration," in IEEE Transactions on Evolutionary Computation, vol. 28, no. 4, pp. 1114-1126, Aug. 2024.](https://ieeexplore.ieee.org/abstract/document/10171212)
 - [**L. Xie**, G. Li, K. Lin, and Z. Wang. "Dual-state-driven Evolutionary Optimization for Expensive Optimization Problems with Continuous and Categorical Variables." 2023 5th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2023.](https://ieeexplore.ieee.org/abstract/document/10294894)
 - [Li G<sup>1</sup>, **Xie L<sup>1</sup>**, Z. Wang, et al. Evolutionary Algorithm with Individual-distribution Search Strategy and Regression-classification Surrogates for Expensive Optimization[J]. Information Sciences, 2023, 634: 423-442.](https://www.sciencedirect.com/science/article/pii/S0020025523004255)
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - *2024.05* Outstanding Master’s Thesis, Southern University of Science and Technology
 - *2024.05* Outstanding Master’s Graduate, Southern University of Science and Technology
 - *2023.09* Outstanding Master’s Student, Southern University of Science and Technology
