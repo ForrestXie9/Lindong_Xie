@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🧐 About Me
 Hello everyone, welcome to my personal homepage. I am Xie Lindong (Chinese name is 谢淋东), a PhD student at The Hong Kong Polytechnic University, under the supervision of Professor Edward Chung. Before joining PolyU, I completed my Master’s degree at the Southern University of Science and Technology, where I was supervised by Dr. Zhenkun Wang and Dr. Genhui Li.
 
 My main area of research focuses on **data-driven optimization** (e.g., surrogate-assisted evolutionary optimization and Bayesian optimization) and **large language models** tailored for addressing **expensive black-box optimization problems**. If you are interested in my research, I welcome you to reach out for collaboration and communication opportunities. For more information, please visit my [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-2497-2338) and [GitHup](https://github.com/ForrestXie9).
