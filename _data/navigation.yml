@@ -20,15 +20,15 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
 
   - title: "Professional Service"
     url: "/#-professional-service"
 
-  - title: "Hobbies"
-    url: "/#-hobbies"
+  # - title: "Hobbies"
+  #   url: "/#-hobbies"
 
-  - title: "Monthly Song"
-    url: "/#-monthly-song"
+  # - title: "Monthly Song"
+  #   url: "/#-monthly-song"
 
