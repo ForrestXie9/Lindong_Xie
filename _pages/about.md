@@ -23,6 +23,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 The paper titled ‘Customized Evolutionary Expensive Optimization: Efficient Search and Surrogate Strategies for Continuous and Categorical Variables’ has been accepted by **IEEE Transactions on Systems, Man, and Cybernetics Systems**.
 - *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the **Outstanding Master’s Thesis (Top 1%)** by Southern University of Science and Technology.
 - *2023.11*: &nbsp;🎉🎉 Lindong Xie has become a candidate for the exemplary graduate student at Southern University of Science and Technology.
 - *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the **National Graduate Scholarship**.
@@ -43,7 +44,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
-- Z. Wang, **L. Xie**, G. Li, et al. "Customized Evolutionary Expensive Optimization: Efficient Search and Surrogate Strategies for Continuous and Categorical Variables."  IEEE Transactions on Systems Man Cybernetics-Systems (Coming Soon).
+- Z. Wang, **L. Xie**, G. Li, et al. "Customized Evolutionary Expensive Optimization: Efficient Search and Surrogate Strategies for Continuous and Categorical Variables."  IEEE Transactions on Systems, Man, and Cybernetics Systems (Coming Soon).
 - [Z. Wang, Y. Chen, G. Li, and **L. Xie**, et al. "Batch Subproblem Coevolution with Gaussian Process-driven Linear Models for Expensive Multi-objective Optimization." Swarm and Evolutionary Computation 91 (2024): 101700.](https://www.sciencedirect.com/science/article/pii/S2210650224002384)
 - [**L. Xie**, G. Li, Z. Wang, L. Cui, and M. Gong, "Surrogate-Assisted Evolutionary Algorithm with Model and Infill Criterion Auto-Configuration," in IEEE Transactions on Evolutionary Computation, vol. 28, no. 4, pp. 1114-1126, Aug. 2024.](https://ieeexplore.ieee.org/abstract/document/10171212)
 - [**L. Xie**, G. Li, K. Lin, and Z. Wang. "Dual-state-driven Evolutionary Optimization for Expensive Optimization Problems with Continuous and Categorical Variables." 2023 5th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2023.](https://ieeexplore.ieee.org/abstract/document/10294894)
