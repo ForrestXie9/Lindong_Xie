@@ -62,5 +62,6 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
   
 # ✒️ Professional Service
 Journal Reviewer
+- IEEE Transactions on Evolutionary Computation  **(SCI Q1)**
 - Swarm and Evolutionary Computation  **(SCI Q1)**
 
