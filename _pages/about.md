@@ -23,6 +23,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 The paper titled ‘Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm’ has been accepted by **KDD 2025(CCF A)**.
 - *2024.12*: &nbsp;🎉🎉 The paper titled ‘Customized Evolutionary Expensive Optimization: Efficient Search and Surrogate Strategies for Continuous and Categorical Variables’ has been accepted by **IEEE Transactions on Systems, Man, and Cybernetics Systems**.
 - *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the **Outstanding Master’s Thesis (Top 1%)** by Southern University of Science and Technology.
 - *2023.11*: &nbsp;🎉🎉 Lindong Xie has become a candidate for the exemplary graduate student at Southern University of Science and Technology.
