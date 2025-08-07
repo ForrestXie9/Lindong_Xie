@@ -32,7 +32,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 - *2023.03*: &nbsp;🎉🎉 The paper titled ‘Evolutionary Algorithm with Individual-Distribution Search Strategy and Regression-Classification Surrogates for Expensive Optimization’ has been accepted by Information Sciences.
 
 
-# 📝 Publications 
+# 📝 Published Papers 
 
 <!--#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 #<div class='paper-box-text' markdown="1">
