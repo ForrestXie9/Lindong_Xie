@@ -63,7 +63,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 
 # 📖 Educations
 - *2024.09 - Present*, PhD Student, Hong Kong Polytechnic University. 
-- *2021.09 - 2024.06*, Master, Southern University of Science and Technology.
+
   
 # ✒️ Professional Service
 Journal Reviewer
