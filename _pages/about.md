@@ -68,5 +68,6 @@ Journal Reviewer
 - IEEE Transactions on Evolutionary Computation  **(SCI Q1)**
 - Archives of Computational Methods in Engineering **(SCI Q1)**
 - Swarm and Evolutionary Computation  **(SCI Q1)**
+- Information Sciences  **(SCI Q1)**
 - Applied Soft Computing **(SCI Q1)**
 
