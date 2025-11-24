@@ -61,8 +61,6 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 - *2023.09* Outstanding Master’s Student, Southern University of Science and Technology.
 - *2023.09* National Scholarship.
 
-# 📖 Educations
-- *2024.09 - Present*, PhD Student, Hong Kong Polytechnic University. 
 
   
 # ✒️ Professional Service
