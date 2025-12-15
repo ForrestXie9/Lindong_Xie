@@ -32,7 +32,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 - *2023.03*: &nbsp;🎉🎉 The paper titled ‘Evolutionary Algorithm with Individual-Distribution Search Strategy and Regression-Classification Surrogates for Expensive Optimization’ has been accepted by Information Sciences.
 
 
-# 📝 Published Papers 
+# 📝 Selected Papers 
 
 <!--#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 #<div class='paper-box-text' markdown="1">
@@ -45,6 +45,12 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
+
+-  **L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression with Domain Knowledge and Large Language Models for Traffic Delay Estimation."
+
+-  **L. Xie**, et al. "Surrogate-Assisted Traffic Signal Optimization with Large Language Models."
+
+
 -  [**L. Xie**, Y. Zhang, Z. Tang, E. Chung, et al. "Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, vol. 2, 2025: 3321–3332. ](https://dl.acm.org/doi/abs/10.1145/3711896.3736882)
 
 -  [**L. Xie**, G. Li, Z. Wang, E. Chung, and M. Gong. "Large Language Model-Driven Surrogate-Assisted Evolutionary Algorithm for Expensive Optimization." arXiv preprint arXiv:2507.02892, 2025. ](https://arxiv.org/abs/2507.02892)
