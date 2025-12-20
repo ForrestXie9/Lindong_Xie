@@ -77,3 +77,8 @@ Journal Reviewer
 - Information Sciences  **(SCI Q1)**
 - Applied Soft Computing **(SCI Q1)**
 
+# 🎯 Hobbies 
+I enjoy a variety of outdoor activities (e.g., hiking, traveling) and natural scenery, as well as listening to music.
+
+
+
