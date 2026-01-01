@@ -63,6 +63,7 @@ My main area of research focuses on **data-driven optimization** (e.g., surrogat
 
 # 🎖 Selected Honors and Awards
 - *2025.12* International Collaborative Research Fellowship, The Hong Kong Polytechnic University.
+- *2025.09* KDD 2025 Student Travel Award, KDD 2025.
 - *2024.05* Outstanding Master’s Thesis, Southern University of Science and Technology.
 - *2024.05* Outstanding Master’s Graduate, Southern University of Science and Technology.
 - *2023.09* Outstanding Master’s Student, Southern University of Science and Technology.
