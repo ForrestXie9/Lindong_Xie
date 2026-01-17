@@ -19,7 +19,9 @@ redirect_from:
 # 🧐 About Me
 Hello everyone, welcome to my personal homepage. I am Xie Lindong, a PhD candidate at The Hong Kong Polytechnic University, under the supervision of Professor Edward Chung. Before joining PolyU, I completed my Master’s degree at the Southern University of Science and Technology, where I was supervised by Dr. Zhenkun Wang and Dr. Genghui Li.
 
-My main area of research focuses on **data-driven optimization** (e.g., surrogate-assisted evolutionary optimization and Bayesian optimization) and **large language models** tailored for addressing **expensive black-box optimization problems**, particularly in **transportation-related applications**. If you are interested in my research, I welcome you to reach out for collaboration and communication opportunities. For more information, please visit my [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-2497-2338) and [GitHub](https://github.com/ForrestXie9).
+My primary research interests focus on **black-box optimization**, **symbolic artificial intelligence**, **large language models**, and their applications in intelligent transportation systems. If you are interested in my research, I welcome you to reach out for collaboration and communication opportunities. For more information, please visit my [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-2497-2338) and [GitHub](https://github.com/ForrestXie9).
+
+
 
 
 # 🔥 News
