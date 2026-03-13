@@ -72,6 +72,7 @@ My primary research interests focus on **black-box optimization**, **symbolic ar
 # ✒️ Professional Service
 Journal Reviewer
 - IEEE Transactions on Evolutionary Computation  **(SCI Q1)**
+- IEEE Transactions on Systems, Man and Cybernetics: Systems **(SCI Q1)**
 - Knowledge based Systems  **(SCI Q1)**
 - Archives of Computational Methods in Engineering **(SCI Q1)**
 - Swarm and Evolutionary Computation  **(SCI Q1)**
