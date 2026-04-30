@@ -47,9 +47,9 @@ My primary research interests focus on **black-box optimization**, **symbolic ar
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
-- **L. Xie**, et al. "Symbolic Distillation for Traffic Signal Control". 2026. 
-- **L. Xie**, et al. "Symbolic Regression for Traffic Delay Estimation". 2026.
-- **L. Xie**, et al. "Large Language Models for Traffic Signal Optimization". 2025.
+- **L. Xie**, et al. "Symbolic Distillation for Traffic Signal Control." 2026. 
+- **L. Xie**, et al. "Symbolic Regression for Traffic Delay Estimation." 2026.
+- **L. Xie**, et al. "Large Language Models for Traffic Signal Optimization." 2025.
 -  [**L. Xie**, Y. Zhang, Z. Tang, E. Chung, et al. "Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, vol. 2, 2025: 3321–3332. ](https://dl.acm.org/doi/abs/10.1145/3711896.3736882)
 
 -  [**L. Xie**, G. Li, Z. Wang, E. Chung, and M. Gong. "Large Language Model-Driven Surrogate-Assisted Evolutionary Algorithm for Expensive Optimization." arXiv preprint arXiv:2507.02892, 2025. ](https://arxiv.org/abs/2507.02892)
