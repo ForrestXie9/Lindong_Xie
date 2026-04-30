@@ -29,7 +29,7 @@ My primary research interests focus on **black-box optimization**, **symbolic ar
 - *2024.12*: &nbsp;🎉🎉 The paper titled ‘Customized Evolutionary Expensive Optimization: Efficient Search and Surrogate Strategies for Continuous and Categorical Variables’ has been accepted by **IEEE Transactions on Systems, Man, and Cybernetics Systems**.
 - *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the **Outstanding Master’s Thesis (Top 1%)** by Southern University of Science and Technology.
 - *2023.11*: &nbsp;🎉🎉 Lindong Xie has become a candidate for the exemplary graduate student at Southern University of Science and Technology.
-- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the **National Graduate Scholarship**.
+- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the **National Scholarship**.
 - *2023.06*: &nbsp;🎉🎉 The paper titled ‘Surrogate-Assisted Evolutionary Algorithm with Model and Infill Criterion Auto-Configuration’ has been accepted by **IEEE Transactions on Evolutionary Computation**.
 - *2023.03*: &nbsp;🎉🎉 The paper titled ‘Evolutionary Algorithm with Individual-Distribution Search Strategy and Regression-Classification Surrogates for Expensive Optimization’ has been accepted by Information Sciences.
 
@@ -63,9 +63,9 @@ My primary research interests focus on **black-box optimization**, **symbolic ar
 # 🎖 Selected Honors and Awards
 - *2025.12* International Collaborative Research Fellowship, The Hong Kong Polytechnic University.
 - *2025.09* KDD 2025 Student Travel Award, KDD 2025.
-- *2024.05* Outstanding Master’s Thesis, Southern University of Science and Technology.
-- *2024.05* Outstanding Master’s Graduate, Southern University of Science and Technology.
-- *2023.09* Outstanding Master’s Student, Southern University of Science and Technology.
+- *2024.05* Outstanding Thesis, Southern University of Science and Technology.
+- *2024.05* Outstanding Graduate, Southern University of Science and Technology.
+- *2023.09* Outstanding Student, Southern University of Science and Technology.
 - *2023.09* National Scholarship.
 
 
