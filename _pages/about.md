@@ -47,8 +47,9 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
+- [B. Tang, Y. Zhang, G. Zhuang, W. Wei, G. Zheng, **L. Xie**, et al. "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents." arXiv preprint arXiv:2607.16621, 2026.](https://arxiv.org/abs/2607.16621)  
 - **L. Xie**, et al. "Symbolic Distillation for Traffic Signal Control." 2026. 
-- **L. Xie**, et al. "Symbolic Regression for Traffic Delay Estimation." 2026.
+- **L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.
 - **L. Xie**, et al. "Large Language Models for Traffic Signal Optimization." 2025.
 -  [**L. Xie**, Y. Zhang, Z. Tang, E. Chung, et al. "Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, vol. 2, 2025: 3321–3332. ](https://dl.acm.org/doi/abs/10.1145/3711896.3736882)
 
@@ -79,6 +80,9 @@ Journal Reviewer
 - Swarm and Evolutionary Computation  **(SCI Q1)**
 - Information Sciences  **(SCI Q1)**
 - Applied Soft Computing **(SCI Q1)**
+
+Conference Reviewer
+- AAAI 2026
 
 # 🎯 Hobbies 
 I enjoy a variety of outdoor activities (e.g., hiking, traveling) and natural scenery, as well as listening to music.
