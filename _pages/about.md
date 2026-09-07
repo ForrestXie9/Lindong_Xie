@@ -47,7 +47,8 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
-- Y. Zhang, C. Wang, **L. Xie**, Y. Xu, et al. Integrating Large Language Models and Reinforcement Learning for Efficient Home Energy Management [J]. *IEEE Internet of Things Journal*, 2026.
+- Y. Zhang, **L. Xie**, et al. SE-MARL: Stackelberg-Equilibrium-Based Multi-Agent Reinforcement Learning with Exact-Tabular Convergence Analysis for EV Charging Pricing and Scheduling [J]. IEEE Transactions on Transportation Electrification, 2026.
+- [Y. Zhang, C. Wang, **L. Xie**, Y. Xu, et al. Integrating Large Language Models and Reinforcement Learning for Efficient Home Energy Management [J]. *IEEE Internet of Things Journal*, 2026.](https://ieeexplore.ieee.org/abstract/document/11640337)
 - [B. Tang, Y. Zhang, G. Zhuang, W. Wei, G. Zheng, **L. Xie**, et al. "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents." arXiv preprint arXiv:2607.16621, 2026.](https://arxiv.org/abs/2607.16621)  
 - **L. Xie**, et al. "Symbolic Distillation for Traffic Signal Control." 2026. 
 - **L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.
