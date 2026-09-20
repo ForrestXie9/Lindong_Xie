@@ -55,9 +55,9 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 - [Y. Zhang, C. Wang, **L. Xie**, Y. Xu, et al. Integrating Large Language Models and Reinforcement Learning for Efficient Home Energy Management [J]. *IEEE Internet of Things Journal*, 2026.](https://ieeexplore.ieee.org/abstract/document/11640337)
   
 - [B. Tang, Y. Zhang, G. Zhuang, W. Wei, G. Zheng, **L. Xie**, et al. "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents."  EMNLP(Findings), 2026.](https://arxiv.org/abs/2607.16621)  
-- **L. Xie**, et al. "Symbolic Distillation for Traffic Signal Control." 2026. 
+- **L. Xie**, et al. "Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers." 2026.
 - **L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.
-- **L. Xie**, et al. "Large Language Models for Traffic Signal Optimization." 2025.
+- **L. Xie**, et al. "Traffic Signal Optimization with Large Language Models." 2025.
 -  [**L. Xie**, Y. Zhang, Z. Tang, E. Chung, et al. "Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, vol. 2, 2025: 3321–3332. ](https://dl.acm.org/doi/abs/10.1145/3711896.3736882)
 
 -  [**L. Xie**, G. Li, Z. Wang, E. Chung, and M. Gong. "Large Language Model-Driven Surrogate-Assisted Evolutionary Algorithm for Expensive Optimization." arXiv preprint arXiv:2507.02892, 2025. ](https://arxiv.org/abs/2507.02892)
