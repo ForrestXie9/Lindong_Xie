@@ -25,13 +25,17 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 The paper titled ‘Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm’ has been accepted by **KDD 2025(CCF A)**.
-- *2024.12*: &nbsp;🎉🎉 The paper titled ‘Customized Evolutionary Expensive Optimization: Efficient Search and Surrogate Strategies for Continuous and Categorical Variables’ has been accepted by **IEEE Transactions on Systems, Man, and Cybernetics Systems**.
-- *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the **Outstanding Master’s Thesis (Top 1%)** by Southern University of Science and Technology.
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2026(CCF A).
+- *2026.09*:&nbsp;🎉🎉 One paper is accepted by TTE.
+- *2026.08*:&nbsp;🎉🎉 One paper is accepted by EMNLP 2026(Findings).
+- *2026.07*:&nbsp;🎉🎉 One paper is accepted by IOT-J.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025(CCF A).
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by TSMCS.
+- *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the Outstanding Master’s Thesis (Top 1%) by Southern University of Science and Technology.
 - *2023.11*: &nbsp;🎉🎉 Lindong Xie has become a candidate for the exemplary graduate student at Southern University of Science and Technology.
-- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the **National Scholarship**.
-- *2023.06*: &nbsp;🎉🎉 The paper titled ‘Surrogate-Assisted Evolutionary Algorithm with Model and Infill Criterion Auto-Configuration’ has been accepted by **IEEE Transactions on Evolutionary Computation**.
-- *2023.03*: &nbsp;🎉🎉 The paper titled ‘Evolutionary Algorithm with Individual-Distribution Search Strategy and Regression-Classification Surrogates for Expensive Optimization’ has been accepted by Information Sciences.
+- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the National Scholarship.
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by TEVC.
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by IS.
 
 
 # 📝 Selected Papers 
@@ -47,6 +51,8 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
+- **L. Xie**, et al. "Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers." NIPS, 2026.
+
 - [Y. Zhang, **L. Xie**, et al. LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems [J]. *arXiv preprint arXiv:2609.13805*, 2026.](https://arxiv.org/abs/2609.13805)
 
 - [Y. Zhang, **L. Xie**, et al. SE-MARL: Stackelberg-Equilibrium-Based Multi-Agent Reinforcement Learning with Exact-Tabular Convergence Analysis for EV Charging Pricing and Scheduling [J]. *IEEE Transactions on Transportation Electrification*, 2026.](https://ieeexplore.ieee.org/abstract/document/11688133)
@@ -55,9 +61,10 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 - [Y. Zhang, C. Wang, **L. Xie**, Y. Xu, et al. Integrating Large Language Models and Reinforcement Learning for Efficient Home Energy Management [J]. *IEEE Internet of Things Journal*, 2026.](https://ieeexplore.ieee.org/abstract/document/11640337)
   
 - [B. Tang, Y. Zhang, G. Zhuang, W. Wei, G. Zheng, **L. Xie**, et al. "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents."  EMNLP(Findings), 2026.](https://arxiv.org/abs/2607.16621)  
-- **L. Xie**, et al. "Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers." 2026.
+
 - **L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.
 - **L. Xie**, et al. "Traffic Signal Optimization with Large Language Models." 2025.
+
 -  [**L. Xie**, Y. Zhang, Z. Tang, E. Chung, et al. "Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, vol. 2, 2025: 3321–3332. ](https://dl.acm.org/doi/abs/10.1145/3711896.3736882)
 
 -  [**L. Xie**, G. Li, Z. Wang, E. Chung, and M. Gong. "Large Language Model-Driven Surrogate-Assisted Evolutionary Algorithm for Expensive Optimization." arXiv preprint arXiv:2507.02892, 2025. ](https://arxiv.org/abs/2507.02892)
