@@ -25,15 +25,15 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2026(CCF A).
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026 (CCF A).
 - *2026.09*:&nbsp;🎉🎉 One paper is accepted by TTE.
-- *2026.08*:&nbsp;🎉🎉 One paper is accepted by EMNLP 2026(Findings).
+- *2026.08*:&nbsp;🎉🎉 One paper is accepted by EMNLP 2026 Findings.
 - *2026.07*:&nbsp;🎉🎉 One paper is accepted by IOT-J.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025(CCF A).
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by TSMCS.
-- *2024.06*: &nbsp;🎉🎉 The thesis titled ‘Research on Surrogate-Assisted Expensive Optimization Algorithms’ has been awarded the Outstanding Master’s Thesis (Top 1%) by Southern University of Science and Technology.
-- *2023.11*: &nbsp;🎉🎉 Lindong Xie has become a candidate for the exemplary graduate student at Southern University of Science and Technology.
-- *2023.10*: &nbsp;🎉🎉 Lindong Xie has been awarded the National Scholarship.
+- *2024.06*: &nbsp;🎉🎉 Awarded Outstanding Master’s Thesis (Top 1%) at SUSTech.
+- *2023.11*: &nbsp;🎉🎉 Selected as an Exemplary Graduate Student candidate at SUSTech.
+- *2023.10*: &nbsp;🎉🎉 Awarded the National Scholarship (Top 1%).
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by TEVC.
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by IS.
 
