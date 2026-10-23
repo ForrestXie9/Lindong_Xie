@@ -15,8 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 # 🧐 About Me
+{: #about-me }
 Hello everyone, welcome to my personal homepage. I am Xie Lindong, a PhD candidate at The Hong Kong Polytechnic University, under the supervision of Professor Edward Chung. Before joining PolyU, I completed a Master’s degree at the Southern University of Science and Technology, where I was supervised by Dr. Zhenkun Wang and Dr. Genghui Li.
 
 My primary research interests focus on **black-box optimization**, **neuro-symbolic AI**, **large language models**, and their applications in **intelligent transportation systems**. If you are interested in  research, I welcome you to reach out for collaboration and communication opportunities. For more information, please visit  [ORCID](https://orcid.org/0009-0004-2497-2338) and [GitHub](https://github.com/ForrestXie9).
@@ -25,6 +25,7 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 
 
 # 🔥 News
+{: #news }
 - *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026 (CCF A).
 - *2026.09*:&nbsp;🎉🎉 One paper is accepted by TTE.
 - *2026.08*:&nbsp;🎉🎉 One paper is accepted by EMNLP 2026 Findings.
@@ -39,6 +40,7 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 
 
 # 📝 Selected Papers 
+{: #publications }
 
 <!--#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 #<div class='paper-box-text' markdown="1">
@@ -76,6 +78,7 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 - [Li G<sup>1</sup>, **Xie L<sup>1</sup>**, Z. Wang, et al. Evolutionary Algorithm with Individual-distribution Search Strategy and Regression-classification Surrogates for Expensive Optimization[J]. Information Sciences, 2023, 634: 423-442.](https://www.sciencedirect.com/science/article/pii/S0020025523004255)
 
 # 🎖 Selected Honors and Awards
+{: #honors-and-awards }
 - *2025.12* International Collaborative Research Fellowship, The Hong Kong Polytechnic University.
 - *2025.09* KDD 2025 Student Travel Award, KDD 2025.
 - *2024.05* Outstanding Thesis, Southern University of Science and Technology.
@@ -86,6 +89,7 @@ My primary research interests focus on **black-box optimization**, **neuro-symbo
 
   
 # ✒️ Professional Service
+{: #professional-service }
 Journal Reviewer
 - IEEE Transactions on Evolutionary Computation  **(SCI Q1)**
 - IEEE Transactions on Systems, Man and Cybernetics: Systems **(SCI Q1)**
@@ -100,6 +104,7 @@ Conference Reviewer
 - KDD 2026
 
 # 🎯 Hobbies 
+{: #hobbies }
 I enjoy a variety of outdoor activities (e.g., hiking, traveling) and natural scenery, as well as listening to music.
 
 
