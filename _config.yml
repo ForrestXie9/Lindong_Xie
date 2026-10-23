@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Lindong Xie"
 description              : Hong Kong Polytechnic University
-repository               : "ForrestXie9/Lindong_Xie.github.io"
+url                      : "https://forrestxie9.github.io"
+baseurl                  : "/Lindong_Xie"
+repository               : "ForrestXie9/Lindong_Xie"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -43,9 +45,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/lindong-xie-1bb018364"
+  linkedin         : "lindong-xie-1bb018364"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-2497-2338"
+  orcid            : "https://orcid.org/0009-0004-2497-2338"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
