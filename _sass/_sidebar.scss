@@ -190,7 +190,8 @@
   cursor: default;
 
   @include breakpoint($large) {
-    display: block;
+    // Match CSS visibility at the breakpoint even when the script hides links.
+    display: block !important;
     position: relative;
     margin: 0;
     padding: 0;
@@ -256,7 +257,9 @@
 .author__urls_sm{
   padding: .25em;
   font-size: 1.75em;
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
   a {
     color: inherit;
     text-decoration: none;
@@ -266,5 +269,23 @@
   }
   @include breakpoint($large) {
     display: none;
+  }
+}
+
+// Keep contact icons on their own row when the profile is above the content.
+@media (max-width: ($large - 1px)) {
+  .profile_box {
+    flex-wrap: wrap;
+  }
+
+  .author__content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    flex-basis: 100%;
+    margin-left: 0;
   }
 }
