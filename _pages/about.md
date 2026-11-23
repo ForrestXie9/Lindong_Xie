@@ -56,7 +56,8 @@ For more information, please visit my [ORCID](https://orcid.org/0009-0004-2497-2
 #- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 #</div>
 #</div> -->
-- **L. Xie**, et al. "Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers." NIPS, 2026.
+- [**L. Xie**, et al. "Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers." NIPS, 2026.](https://arxiv.org/pdf/2611.19951)
+  
 
 - [Y. Zhang, **L. Xie**, et al. LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems [J]. *arXiv preprint arXiv:2609.13805*, 2026.](https://arxiv.org/abs/2609.13805)
 
@@ -67,7 +68,8 @@ For more information, please visit my [ORCID](https://orcid.org/0009-0004-2497-2
   
 - [B. Tang, Y. Zhang, G. Zhuang, W. Wei, G. Zheng, **L. Xie**, et al. "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents."  EMNLP(Findings), 2026.](https://arxiv.org/abs/2607.16621)  
 
-- **L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.
+- [**L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.](https://arxiv.org/pdf/2611.19946)
+  
 - **L. Xie**, et al. "Traffic Signal Optimization with Large Language Models." 2025.
 
 -  [**L. Xie**, Y. Zhang, Z. Tang, E. Chung, et al. "Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm." Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, vol. 2, 2025: 3321–3332. ](https://dl.acm.org/doi/abs/10.1145/3711896.3736882)
