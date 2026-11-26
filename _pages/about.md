@@ -29,6 +29,7 @@ For more information, please visit my [ORCID](https://orcid.org/0009-0004-2497-2
 
 # 🔥 News
 {: #news }
+- *2026.11*:&nbsp;🎉🎉 One paper is accepted by TITS.
 - *2026.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2026 (CCF A).
 - *2026.09*:&nbsp;🎉🎉 One paper is accepted by TTE.
 - *2026.08*:&nbsp;🎉🎉 One paper is accepted by EMNLP 2026 Findings.
@@ -68,7 +69,7 @@ For more information, please visit my [ORCID](https://orcid.org/0009-0004-2497-2
   
 - [B. Tang, Y. Zhang, G. Zhuang, W. Wei, G. Zheng, **L. Xie**, et al. "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents."  EMNLP(Findings), 2026.](https://arxiv.org/abs/2607.16621)  
 
-- [**L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." 2026.](https://arxiv.org/pdf/2611.19946)
+- [**L. Xie**, et al. "CoSyDelay: Cognitive Symbolic Regression for Traffic Delay Estimation." IEEE Transactions on Intelligent Transportation Systems, 2026.](https://arxiv.org/pdf/2611.19946)
   
 - **L. Xie**, et al. "Traffic Signal Optimization with Large Language Models." 2025.
 
